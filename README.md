@@ -3,7 +3,7 @@ All the files for my Firefox browser themes.
 
 NOT MADE FOR ZEN BROWSER!
 
-![EverforestTheme](https://github.com/user-attachments/assets/91264a71-72d1-4a5b-ba67-d8a7e3a3437d)
+![EverforestTheme](https://github.com/user-attachments/assets/27761f2a-8240-42cc-9823-f5dfff8e2e33)
 
 Profile
 
