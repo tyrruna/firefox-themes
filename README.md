@@ -3,7 +3,8 @@ All the files for my Firefox browser themes.
 
 NOT MADE FOR ZEN BROWSER!
 
-<img width="168" height="168" alt="FirefoxLogo" src="https://github.com/user-attachments/assets/f004db2b-565e-49db-ad19-9ecc417a79f0" /><img width="168" height="168" alt="FloorpLogo" src="https://github.com/user-attachments/assets/ca4c466c-c6b4-40e4-b99e-b970f27e9a77" />
+<img width="168" height="168" alt="FirefoxLogo" src="https://github.com/user-attachments/assets/f004db2b-565e-49db-ad19-9ecc417a79f0" /><img width="168" height="168" alt="FloorpLogo" src="https://github.com/user-attachments/assets/ca4c466c-c6b4-40e4-b99e-b970f27e9a77" /><img width="256" height="256" alt="LibreWolfLogo" src="https://github.com/user-attachments/assets/9706aa09-f679-48da-9eec-fcedc95d0c3f" />
+
 
 Profile
 
