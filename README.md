@@ -1,5 +1,7 @@
 # Firefox Browser Themes
-All the files for my Firefox browser themes. Please be aware that these themes do not work well with the UI in Zen browser.
+All the files for my Firefox browser themes.
+
+NOT MADE FOR ZEN BROWSER!
 
 Profile
 
