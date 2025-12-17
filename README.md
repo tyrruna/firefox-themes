@@ -1,4 +1,4 @@
-# Firefox Browser Themes
+# Firefox Themes
 All the files for my Firefox browser themes.
 
 NOT MADE FOR ZEN BROWSER!
