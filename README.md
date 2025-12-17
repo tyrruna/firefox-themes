@@ -101,10 +101,6 @@ Velvet Mango
 
 https://addons.mozilla.org/sv-SE/firefox/addon/velvet-mango-theme/
 
-Apprentice
-
-https://addons.mozilla.org/sv-SE/firefox/addon/apprentice-theme/
-
 Zenburn
 
 https://addons.mozilla.org/sv-SE/firefox/addon/zenburn-theme/
