@@ -64,3 +64,7 @@ https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/
 Valhalla
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Valhalla-Themes/
+
+Midnight
+
+https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Midnigh-Themes/
