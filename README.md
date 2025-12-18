@@ -9,62 +9,62 @@ Profile
 
 https://addons.mozilla.org/sv-SE/firefox/user/18694308/
 
-Everforest
+Everforest Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Everforest-Themes/
 
-Nord
+Nord Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Nord-Themes/
 
-Gruvbox
+Gruvbox Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Gruvbox-Themes/
 
-Kanagawa
+Kanagawa Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Kanagawa-Themes/
 
-Catppuccin
+Catppuccin Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Catppuccin-Themes/
 
-Rosé Pine
+Rosé Pine Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ros-Pine-Themes/
 
-Witch Hazel
+Witch Hazel Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/
 
-Solarized
+Solarized Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Solarized-Themes/
 
-Monokai
+Monokai Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Monokai-Themes/
 
-Horizon
+Horizon Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Horizon-Themes/
 
-Ayu
+Ayu Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ayu-Themes/
 
-Dracula
+Dracula Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dracula-Themes/
 
-Rouge
+Rouge Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/
 
-Valhalla
+Valhalla Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Valhalla-Themes/
 
-Dark
+Dark Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dark-Themes/
