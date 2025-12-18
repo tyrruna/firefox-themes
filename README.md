@@ -65,6 +65,6 @@ Valhalla Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Valhalla-Themes/
 
-Midnight Themes
+Dark Themes
 
-https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Midnight-Themes/
+https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dark-Themes/
