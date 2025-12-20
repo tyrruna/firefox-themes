@@ -27,12 +27,18 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 [Nord Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Nord-Themes/)
 
-[Rosé Pine Thenes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ros-Pine-Themes/)
+[One Dark Pro](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Nord-Themes/)
+
+[Rosé Pine Thenes](https://addons.mozilla.org/sv-SE/firefox/addon/one-dark-pro-theme-firefox/)
 
 [Rouge Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/)
 
 [Solarized Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Solarized-Themes/)
 
+[Spaceduck](https://addons.mozilla.org/sv-SE/firefox/addon/spaceduck-dark-theme/)
+
 [Tokyo Night Dark](https://addons.mozilla.org/sv-SE/firefox/addon/tokyo-night-dark-theme/)
 
 [Witch Hazel Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/)
+
+[Zenburn](https://addons.mozilla.org/sv-SE/firefox/addon/zenburn-theme/)
