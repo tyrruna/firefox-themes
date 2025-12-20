@@ -5,62 +5,62 @@ NOT MADE FOR ZEN BROWSER!
 
 ![EverforestTheme](https://github.com/user-attachments/assets/27761f2a-8240-42cc-9823-f5dfff8e2e33)
 
-Profile
+Profile:
 
 https://addons.mozilla.org/sv-SE/firefox/user/18694308/
 
-Everforest Themes
+Everforest Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Everforest-Themes/
 
-Nord Themes
+Nord Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Nord-Themes/
 
-Gruvbox Themes
+Gruvbox Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Gruvbox-Themes/
 
-Kanagawa Themes
+Kanagawa Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Kanagawa-Themes/
 
-Catppuccin Themes
+Catppuccin Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Catppuccin-Themes/
 
-Rosé Pine Themes
+Rosé Pine Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ros-Pine-Themes/
 
-Witch Hazel Themes
+Witch Hazel Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/
 
-Solarized Themes
+Solarized Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Solarized-Themes/
 
-Monokai Themes
+Monokai Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Monokai-Themes/
 
-Horizon Themes
+Horizon Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Horizon-Themes/
 
-Ayu Themes
+Ayu Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ayu-Themes/
 
-Dracula Themes
+Dracula Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dracula-Themes/
 
-Rouge Themes
+Rouge Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/
 
-Valhalla Themes
+Valhalla Themes:
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Valhalla-Themes/
