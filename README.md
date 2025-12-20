@@ -43,7 +43,7 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 [Palenight](https://addons.mozilla.org/sv-SE/firefox/addon/palenight-dark-theme-firefox/)
 
-[Rosé Pine Thenes](https://addons.mozilla.org/sv-SE/firefox/addon/one-dark-pro-theme-firefox/)
+[Rosé Pine Thenes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ros-Pine-Themes/)
 
 [Rouge Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/)
 
