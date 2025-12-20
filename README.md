@@ -33,4 +33,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 [Solarized Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Solarized-Themes/)
 
+[Tokyo Night Dark](https://addons.mozilla.org/sv-SE/firefox/addon/tokyo-night-dark-theme/)
+
 [Witch Hazel Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/)
