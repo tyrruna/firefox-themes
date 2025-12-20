@@ -27,7 +27,7 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 [Nord Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Nord-Themes/)
 
-[One Dark Pro](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Nord-Themes/)
+[One Dark Pro](https://addons.mozilla.org/sv-SE/firefox/addon/one-dark-pro-theme-firefox/)
 
 [Rosé Pine Thenes](https://addons.mozilla.org/sv-SE/firefox/addon/one-dark-pro-theme-firefox/)
 
