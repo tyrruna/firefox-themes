@@ -87,4 +87,4 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Witch Hazel Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/)
 
-[Zenburn](https://addons.mozilla.org/sv-SE/firefox/addon/zenburn-theme/)
+* [Zenburn](https://addons.mozilla.org/sv-SE/firefox/addon/zenburn-theme/)
