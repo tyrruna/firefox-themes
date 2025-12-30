@@ -17,6 +17,8 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Calamity](https://addons.mozilla.org/sv-SE/firefox/addon/calamity-dark-theme/)
 
+* [Capycocoa](https://addons.mozilla.org/sv-SE/firefox/addon/capycocoa-dark-theme/)
+
 * [Catppuccin Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Catppuccin-Themes/)
 
 * [Chocolate](https://addons.mozilla.org/sv-SE/firefox/addon/chocolate-theme-firefox/)
